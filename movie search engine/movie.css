@@ -1,0 +1,22 @@
+.movie-wrapper{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+
+.movie-card {
+    width: 100%;
+    max-width: 19%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px #ccc;
+    border-radius: 5px;
+}
+
+.movie-image{
+    width: 100%;
+}
